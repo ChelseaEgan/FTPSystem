@@ -54,36 +54,36 @@ If you wish to end the program before the command is fully processed, entering C
 
 ## Sources
 PYTHON
--General socket documentation used for ftclient
-	-https://docs.python.org/3/library/socket.html
-	-Computer Networking by Kurose & Ross, section 2.7.2
--Input validation and error handling
-	-https://www.101computing.net/number-only/
-	-https://stackoverflow.com/a/16745561
-	-https://stackoverflow.com/a/9015233
--File handling
-	-https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions
-	-https://docs.python.org/3/tutorial/inputoutput.html
--Setting up the main method
-	-https://www.guru99.com/learn-python-main-function-with-examples-understand-main.html
--Catching Ctrl+C
-	-https://stackoverflow.com/questions/1187970/how-to-exit-from-python-without-traceback
--My code from Project 1
-	-https://github.com/level5esper/ChatClient/blob/master/chatserve.py
+- General socket documentation used for ftclient
+	- https://docs.python.org/3/library/socket.html
+	- Computer Networking by Kurose & Ross, section 2.7.2
+- Input validation and error handling
+	- https://www.101computing.net/number-only/
+	- https://stackoverflow.com/a/16745561
+	- https://stackoverflow.com/a/9015233
+- File handling
+	- https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions
+	- https://docs.python.org/3/tutorial/inputoutput.html
+- Setting up the main method
+	- https://www.guru99.com/learn-python-main-function-with-examples-understand-main.html
+- Catching Ctrl+C
+	- https://stackoverflow.com/questions/1187970/how-to-exit-from-python-without-traceback
+- My code from Project 1
+	- https://github.com/level5esper/ChatClient/blob/master/chatserve.py
 
 C
--File handling
-	-https://stackoverflow.com/a/22623744
-	-https://stackoverflow.com/questions/30440188/sending-files-from-client-to-server-using-sockets-in-c
-	-https://stackoverflow.com/questions/11952898/c-send-and-receive-file
-	-https://stackoverflow.com/questions/2014033/send-and-receive-a-file-in-socket-programming-in-linux-with-c-c-gcc-g
-	-https://www.geeksforgeeks.org/c-program-list-files-sub-directories-directory/
-	-http://pubs.opengroup.org/onlinepubs/009695399/functions/opendir.html
-	-http://pubs.opengroup.org/onlinepubs/009695399/functions/readdir.html
-	-https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/rtgtc.htm
--TCP connections
-	-https://beej.us/guide/bgnet/html/multi/clientserver.html#simpleserver	
-	-https://beej.us/guide/bgnet/html/multi/clientserver.html#simpleclient
-	-https://stackoverflow.com/a/18437957
--My code from Project 1
-	-https://github.com/level5esper/ChatClient/blob/master/chatUtilities.c
+- File handling
+	- https://stackoverflow.com/a/22623744
+	- https://stackoverflow.com/questions/30440188/sending-files-from-client-to-server-using-sockets-in-c
+	- https://stackoverflow.com/questions/11952898/c-send-and-receive-file
+	- https://stackoverflow.com/questions/2014033/send-and-receive-a-file-in-socket-programming-in-linux-with-c-c-gcc-g
+	- https://www.geeksforgeeks.org/c-program-list-files-sub-directories-directory/
+	- http://pubs.opengroup.org/onlinepubs/009695399/functions/opendir.html
+	- http://pubs.opengroup.org/onlinepubs/009695399/functions/readdir.html
+	- https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/rtgtc.htm
+- TCP connections
+	- https://beej.us/guide/bgnet/html/multi/clientserver.html#simpleserver	
+	- https://beej.us/guide/bgnet/html/multi/clientserver.html#simpleclient
+	- https://stackoverflow.com/a/18437957
+- My code from Project 1
+	- https://github.com/level5esper/ChatClient/blob/master/chatUtilities.c
