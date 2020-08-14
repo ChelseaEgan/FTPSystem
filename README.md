@@ -1,11 +1,9 @@
 # PROJECT 2
 Name: Chelsea Egan
 
-Class: CS 372-400
-
 Last Modified: June 2, 2019
 
-This is a file transfer system created for project 2 of the Intro to Networks class at Oregon State University. A server is started via a terminal and opens a socket for "clients" to connect to. The client is also started via a terminal (can be on the same or different host as the server) and connects to the server by providing its hostname, port number, a command, and a port number for the data connection. This creates the control connection for the commands to be handled. The server then connects to the client's data connection to transfer the requested data (either it's directory list or a file). Once the command is completely processed, the data and control connections are terminated and the client's program ends. The server will remain open for future client connections.
+A server is started via a terminal and opens a socket for "clients" to connect to. The client is also started via a terminal (can be on the same or different host as the server) and connects to the server by providing its hostname, port number, a command, and a port number for the data connection. This creates the control connection for the commands to be handled. The server then connects to the client's data connection to transfer the requested data (either it's directory list or a file). Once the command is completely processed, the data and control connections are terminated and the client's program ends. The server will remain open for future client connections.
 
 
 ## Installation
